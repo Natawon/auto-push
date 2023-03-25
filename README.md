@@ -1,3 +1,3 @@
 test by toomtam auto push
 
-auto push 2
+auto push 3
