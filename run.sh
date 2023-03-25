@@ -5,6 +5,8 @@
 git add .
 # commit changes
 git commit -am "made changes"
+git remote add origin git@github.com:Natawon/auto-push.git
+
 # push to git remote repository
 git push origin master
 ###########################
