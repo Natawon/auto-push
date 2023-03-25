@@ -6,7 +6,7 @@ git add .
 # commit changes
 git commit -am "made changes"
 # push to git remote repository
-git push orin master
+git push origin master
 ###########################
-echo Press Enter...
+echo pushs
 read
